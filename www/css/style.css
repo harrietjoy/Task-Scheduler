@@ -1,0 +1,73 @@
+body {
+	background-image: url("sam.jpg");
+}
+
+#h{
+	background:	#DC143C;
+	padding:30px 15px;
+	color: White;
+	font-family:'Arial';
+	font-size:15px;
+	border-radius:4px;
+	border:1px solid;
+	width: 125px;
+	height: 120px;
+	float: left;
+	margin-left: 39%;
+	margin-top: 15px;
+}
+
+#s{
+	background:	#DC143C;
+	padding:30px 15px;
+	color: White;
+	font-family:'Arial';
+	font-size:15px;
+	border-radius:4px;
+	border:1px solid;
+	width: 125px;
+	height: 120px;
+	float: right;
+	margin-right: 39%;
+	margin-top: 15px;
+}
+
+#logout {
+	bottom: 0;
+	padding: 5px 5px;
+	float: right;
+	border-radius: 5px;
+	background:#00008B;
+	margin-right: 37%;
+	margin-top: 45px;	
+	font-family:'Comic sans ms';
+	font-size: 25px;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	float: right;
+	margin-right: 58%;
+	font-size: 30px;
+}
+
+h1 {
+	font-family: 'Comic sans ms';
+	font-size: 30px;
+	color:white;
+	margin-left: 36.5%;
+}
+
+.choice {
+  width: 145px;
+  height: 80px; 
+  margin-bottom: 25px;
+  font-family: 'Comic sans ms';
+}
+
+.a {
+  float: right;
+  margin-right: 7%;
+}
